@@ -12,5 +12,5 @@ GIT URI: https://github.com/mpalpha/element-resize-listener.git
 
 #####Install:
 ```Batchfile
-    bower i mpalpha/animate-scroll
+    bower i mpalpha/element-resize-listener
 ```
