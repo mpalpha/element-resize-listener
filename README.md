@@ -1,4 +1,4 @@
-## animate-scroll
+## Element Resize Listener
 
 Name: JavaScript element resize listener  
 Description: A Cross-Browser, Event-based, Element Resize Detection and requestAnimationFrame Polyfill.  
