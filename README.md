@@ -1,4 +1,4 @@
-##animate-scroll
+## animate-scroll
 
 Name: JavaScript element resize listener  
 Description: A Cross-Browser, Event-based, Element Resize Detection and requestAnimationFrame Polyfill.  
@@ -10,7 +10,7 @@ Author: Jason Lusk
 Author URI: http://JasonLusk.com  
 GIT URI: https://github.com/mpalpha/element-resize-listener.git  
 
-#####Install:
+##### Install:
 ```Batchfile
     bower i mpalpha/element-resize-listener
 ```
